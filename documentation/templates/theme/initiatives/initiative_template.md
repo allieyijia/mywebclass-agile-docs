@@ -92,8 +92,8 @@ Changes to the MVP may require additional time and resources.
 Dependencies:
 User stories and wireframes must be completed before MVP development can begin.
 User feedback and validation must be completed before MVP refinement.
-Team:
 
+Team:
 Front-end Developer (Lead)
 UI/UX Designer
 Back-end Developer
@@ -117,6 +117,13 @@ Prepare the website for deployment and launch.
 Outcomes:
 A high-quality final product that meets user requirements and preferences.
 A user-friendly, efficient, and reliable website.
+
+Team:
+Front-end Developer (Lead)
+UI/UX Designer
+Back-end Developer
+Project Manager
+Quality Assurance Specialist
 
 # List epics related to this theme
 1. Conduct User Research
