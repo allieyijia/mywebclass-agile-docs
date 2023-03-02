@@ -1,4 +1,4 @@
-<h3>Initiative 1: "Develop User Stories and Wireframes"</h3>
+<h3>Initiative 1: "Conduct user research"</h3>
 
 Description: Develop user stories and wireframes to define the user requirements and interface design of the website.
 
