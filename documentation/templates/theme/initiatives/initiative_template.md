@@ -59,71 +59,71 @@ Goals:
 3. Develop a functioning prototype for user testing.
 
 Scope:
-Develop a prototype of the website with core functionality.
-Conduct user testing on the prototype to gather feedback.
-Refine the MVP based on user feedback.
+1. Develop a prototype of the website with core functionality.
+2. Conduct user testing on the prototype to gather feedback.
+3. Refine the MVP based on user feedback.
 
 Outcomes:
-Validation of core functionality and user experience.
-Identification of potential areas for improvement.
-Refinement of the MVP based on user feedback.
+* Validation of core functionality and user experience.
+* Identification of potential areas for improvement.
+* Refinement of the MVP based on user feedback.
 
 Deliverables:
-MVP prototype.
-User feedback and validation reports.
+* MVP prototype.
+* User feedback and validation reports.
 
 Milestones:
-MVP development (4 weeks)
-User testing and feedback (2 weeks)
-MVP refinement (2 weeks)
-Constraints:
+* MVP development (4 weeks)
+* User testing and feedback (2 weeks)
+* MVP refinement (2 weeks)
 
-Limited budget and resources.
-Tight deadline.
+Constraints:
+* Limited budget and resources.
+* Tight deadline.
 
 Assumptions:
-Users will be willing to provide feedback on the MVP prototype.
-The core functionality of the website can be accurately identified and developed.
+* Users will be willing to provide feedback on the MVP prototype.
+* The core functionality of the website can be accurately identified and developed.
 
 Risks:
-User feedback may not accurately reflect the preferences of the target audience.
-Changes to the MVP may require additional time and resources.
+* User feedback may not accurately reflect the preferences of the target audience.
+* Changes to the MVP may require additional time and resources.
 
 Dependencies:
-User stories and wireframes must be completed before MVP development can begin.
-User feedback and validation must be completed before MVP refinement.
+* User stories and wireframes must be completed before MVP development can begin.
+* User feedback and validation must be completed before MVP refinement.
 
 Team:
-Front-end Developer (Lead)
-UI/UX Designer
-Back-end Developer
-Project Manager
-Quality Assurance Specialist
+* Front-end Developer (Lead)
+* UI/UX Designer
+* Back-end Developer
+* Project Manager
+* Quality Assurance Specialist
 
 <h3>Initiative 3: "Develop Final Product"</h3>
 
 Description: Develop the final product based on the MVP and user feedback.
 
 Goals:
-Develop a high-quality final product that meets user requirements and preferences.
-Ensure the website is user-friendly, efficient, and reliable.
-Prepare the website for deployment and launch.
+* Develop a high-quality final product that meets user requirements and preferences.
+* Ensure the website is user-friendly, efficient, and reliable.
+* Prepare the website for deployment and launch.
 
 Scope:
-Develop the final product based on the MVP and user feedback.
-Conduct thorough testing and debugging to ensure quality.
-Prepare the website for deployment and launch.
+* Develop the final product based on the MVP and user feedback.
+* Conduct thorough testing and debugging to ensure quality.
+* Prepare the website for deployment and launch.
 
 Outcomes:
-A high-quality final product that meets user requirements and preferences.
-A user-friendly, efficient, and reliable website.
+* A high-quality final product that meets user requirements and preferences.
+* A user-friendly, efficient, and reliable website.
 
 Team:
-Front-end Developer (Lead)
-UI/UX Designer
-Back-end Developer
-Project Manager
-Quality Assurance Specialist
+* Front-end Developer (Lead)
+* UI/UX Designer
+* Back-end Developer
+* Project Manager
+* Quality Assurance Specialist
 
 # List epics related to this theme
 1. Conduct User Research
