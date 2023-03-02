@@ -10,10 +10,6 @@ By following the principles of agile and lean development, we can iterate and im
 
 
 # List initiatives related to this theme
-1. Conduct user research.
-2. Develop a content strategy.
-3. Design wireframes and mockups.
-4. Prioritize features and functionality.
-5. Develop and test the website.
-6. Deploy and launch the website.
-7. Monitor and maintain the website.
+1. Conduct User Research
+2. Develop MVP
+3. Develop Final Product
