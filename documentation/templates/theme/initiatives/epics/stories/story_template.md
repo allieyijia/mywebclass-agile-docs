@@ -16,6 +16,9 @@ Acceptance Criteria:
 
 The website should allow the instructor to access the submitted website assignments for each student. The website should display the submitted assignments in a clear and organized way. The website should allow the instructor to download the assignments and view them offline if needed. The website should allow the instructor to provide grades and feedback for each assignment. The website should notify the student when their assignment has been graded and provide them with feedback.
 
+Tasks for "As an instructor, I want to access the uploaded website assignments so that I can grade them":
+
+Design a secure login system to ensure that only the instructor can access the submitted assignments. Create a clear and organized way to display the submitted assignments for each student. Implement a system to download the assignments and view them offline if needed. Create a system to provide grades and feedback for each assignment. Test the grading functionality with different scenarios to ensure that it works correctly and that the student is notified when their assignment has been graded and provided with feedback.
 
 # List tasks related to this theme
 1. Tasks for "As a student, I want to upload my website assignments so that I can submit them to my instructor":
