@@ -10,6 +10,12 @@ Acceptance Criteria:
 
 The website should display the grades for each submitted assignment in a clear and organized way. The website should indicate whether the assignment has been graded or not. The website should provide a summary of the student's overall grade for the course. The website should allow students to see their grades only for their own assignments and not for other students.
 
+"As a student or instructor, I want to view other's website assignments." 
+
+Acceptatnce Criteria: 
+
+The website should ahve a section to showcase a image of other websietes and have a link to the websites. The website should be able to lead stuents and instructors to the student's complete website projects. 
+
 "As an instructor, I want to access the uploaded website assignments so that I can grade them."
 
 Acceptance Criteria:
@@ -40,4 +46,8 @@ The website should allow the instructor to access the submitted website assignme
 * Implement a system to download the assignments and view them offline if needed.
 * Create a system to provide grades and feedback for each assignment.
 * Test the grading functionality with different scenarios to ensure that it works correctly and that the student is notified when their assignment has been graded and provided with feedback.
-<!--- add at least 1 more task --->
+
+4. Tasks for "As a student or instructor, I want to view other's website assignments." 
+* When students upload assignments, have the option to upload a thumbnail image and a link to their website. 
+* Have an opetion to make theier submission private or public to the class. 
+* Have a page that showcase the finsihed website works. 
