@@ -40,4 +40,4 @@ The website should allow the instructor to access the submitted website assignme
 * Implement a system to download the assignments and view them offline if needed.
 * Create a system to provide grades and feedback for each assignment.
 * Test the grading functionality with different scenarios to ensure that it works correctly and that the student is notified when their assignment has been graded and provided with feedback.
-<!--- add 1 more tasks --->
+<!--- add at least 1 more task --->
