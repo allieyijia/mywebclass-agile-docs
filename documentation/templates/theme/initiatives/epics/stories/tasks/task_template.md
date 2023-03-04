@@ -8,7 +8,7 @@ Effort Estimate: 3 hours
 
 Assigned To: John
 
-Testing Method: Will be manuelly tested by having testing gorups upload files and sumbitting website links to see if the function works correctly. 
+Testing Method: Will be manuelly approved and tested automatically if the file formats are valid. 
 
 Priority: High
 
@@ -30,9 +30,9 @@ Priority: High
 
 Status: Not started
 
-Tasting Mathod: Will be manuelly tested by having testing gorups upload files and sumbitting website links to see if the function works correctly. 
+Tasting Mathod: Will be automatically tested and see if the file formats are valid. 
 
-Notes:
+Notes: May depend on the reserach results. 
 
 ## Task Title: Test upload functionality
 
@@ -64,25 +64,11 @@ Assigned To: Mary
 
 Priority: High
 
+Testing Method: Will be manuelly tested by having testing gorups upload files and sumbitting website links to see if the function works correctly. 
+
 Status: Not started
 
 Notes: N/A
-
-## Task Title: Implement validation rules
-
-User Story: As a student, I want to upload my website assignments so that I can submit them to my instructor.
-
-Description: Implement validation rules to ensure that only the correct file formats are uploaded and that the files meet the submission requirements. This task includes creating a system to check for valid file formats, validating file size, and ensuring that the files meet any other submission requirements. The acceptance criteria include verifying that only valid file formats can be uploaded, checking the file size, and validating other submission requirements.
-
-Effort Estimate: 6 hours
-
-Assigned To: Bob
-
-Priority: High
-
-Status: Not started
-
-Notes: This task may depend on the results of the research task.
 
 ## Task Title: Create secure storage system
 
@@ -95,6 +81,8 @@ Effort Estimate: 8 hours
 Assigned To: Sam
 
 Priority: High
+
+Testing method: will be automatically tested by seeing if only autorized user are allowed access and able to run through the pages. 
 
 Status: Not started
 
@@ -164,7 +152,7 @@ Assigned To: Development team or designated personnel
 
 Priority: High
 
-Testing Method: Manually login and see if it works. 
+Testing Method: Manually login and see if only authorized users can login. 
 
 Status: In progress
 
