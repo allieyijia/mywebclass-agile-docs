@@ -76,6 +76,7 @@ Deliverables:
 Milestones:
 * MVP development (4 weeks)
 * User testing and feedback (2 weeks)
+<!--- MVP refinement can take 1 week --->
 * MVP refinement (2 weeks)
 
 Constraints:
