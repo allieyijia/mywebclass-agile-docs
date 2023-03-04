@@ -4,6 +4,7 @@ User Story: As a student, I want to upload my website assignments so that I can 
 
 Description: Research different file formats and submission requirements for website assignments. Determine the specific formats that will be accepted for upload, and create validation rules to ensure that the files meet the submission requirements. Acceptance criteria include a clear call-to-action and instructions on how to upload the website assignment, and a notification system to inform the student when their assignment has been successfully uploaded and stored. Dependencies include the design of the upload form and the creation of a secure storage system for submitted assignments.
 
+<!--- Effort estimate can be 3 hours --->
 Effort Estimate: 4 hours
 
 Assigned To: John
