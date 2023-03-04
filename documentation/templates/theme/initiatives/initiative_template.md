@@ -22,8 +22,7 @@ Deliverables:
 2. User feedback and validation reports.
 
 Milestones:
-<!--- User research and analysis should be 1 week max --->
-1. User research and analysis (2 weeks)
+1. User research and analysis (1 week)
 2. User story and wireframe creation (2 weeks)
 3. User feedback and validation (1 week)
 
