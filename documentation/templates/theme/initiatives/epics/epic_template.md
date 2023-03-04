@@ -12,8 +12,9 @@ User Stories:
 * As a project team member, I want to recruit and schedule participants for interviews and usability testing so that we can gather data from a diverse range of users.
 * As a project team member, I want to analyze the research findings and create user personas so that we can design the website to meet the needs of the target audience.
 
-<!--- Are you sure there are no dependencies??? --->
-Dependencies: None
+Dependencies: 
+* brainstorming 
+* come up with problem statment
 
 Risks: Potential risks include not recruiting enough participants or not gathering sufficient data to inform the design and development of the website. Mitigation strategies include creating a thorough research plan and recruiting a diverse range of participants.
 
