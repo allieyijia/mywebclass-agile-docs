@@ -140,6 +140,8 @@ Testing Method: Automatically tested by clickig through sections and see the "gr
 
 Status: In progress
 
+Notes: The platform should have a secure login system that only allows authorized users to access the grades section. Additionally, it should have an option for the teacher to grade the assignments and provide feedback. The grades should be displayed in a clear and organized manner, allowing students to easily understand and track their progress.
+
 ## Task Title: Creating a Secure Login System for Authorized Users
 
 User Story: As a user (either a student or instructor), I want to be able to securely log into the platform using my unique credentials so that I can access course materials and features.
@@ -158,4 +160,3 @@ Status: In progress
 
 Notes: The login system should have strong encryption to ensure the security of user information. It should also provide an option for users to reset their passwords in case they forget them. Additionally, the system should have an option for users to log out and terminate their session when they're done using the platform.
 
-Notes: The platform should have a secure login system that only allows authorized users to access the grades section. Additionally, it should have an option for the teacher to grade the assignments and provide feedback. The grades should be displayed in a clear and organized manner, allowing students to easily understand and track their progress.
